@@ -135,3 +135,9 @@ body {
     border: 1px solid #ccc;  
   }
 }
+
+.welcome {
+  text-align: center;
+  color:white;
+
+}
